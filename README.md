@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Samuel Buitrago Silva Andrade
+Matricula: 886140
 
 ## Tela de inspeção com navegador
-
+![](<tela de inspeção com o navegador.png>)
 
 ## Tela de projeto no Replit
-
+![](<Tela de projeto no Replit.jpg>)
