@@ -7,7 +7,7 @@ Nome: Samuel Buitrago Silva Andrade
 Matricula: 886140
 
 ## Tela de inspeção com navegador
-![](<tela de inspeção com o navegador.png>)
+![](<tela de inspecao com o navegador.png>)
 
 ## Tela de projeto no Replit
 ![](<Tela de projeto no Replit.jpg>)
